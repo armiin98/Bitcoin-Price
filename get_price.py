@@ -75,7 +75,7 @@ def programme():
 
         <Menu>
 
-    1) SHOW Bitcoin PRICE
+    1) SHOW BITCOIN PRICE
     2) SHOW DATABSE
     3) EXIT
     :? """)
@@ -83,7 +83,7 @@ def programme():
     # SHOW BITCOIN PRICE
     if choose == "1" : 
         clear()
-        print("Please wait to get information (make sure you have internet connection)!..")
+        print("Please wait to get information (make sure you have internet connection)!.")
         date_time()
 
         # GET PRICE OF BITCOIN
@@ -147,7 +147,7 @@ def programme():
             cnx.close() 
 
         except : 
-            print("An error occured when showing data from database!")  
+            print("\nAn error occured when showing data from database!")  
 
         finally : 
             programme()    
@@ -158,7 +158,7 @@ def programme():
 
     # WRONG SELECTION
     else : 
-        print("wrong selection! try again.")
+        print("\nWrong selection! try again.")
         programme()            
 
 programme()            
