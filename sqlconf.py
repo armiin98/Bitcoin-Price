@@ -18,10 +18,11 @@ def show_database():
         print("   ",item)
     cnx.close() 
 
+
 # SAVE TO DATABASE
-def save_database():
+def save_database(date,time,price):
     # CONNECTING TO DATA BASE
-    print("Enter your name and password to connect to database")
+    print("Enter username and password to connect to database")
     import  mysql.connector
     cnx = mysql.connector.connect(
     user=input("Username: "),
