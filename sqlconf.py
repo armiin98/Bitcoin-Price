@@ -20,7 +20,7 @@ def show_database():
         x.append(item[0])
         y.append(float(item[2].replace(",","")))
     
-    # USING MATPLOTLIB LIBRARY
+    # USING MATPLOTLIB LIBRARY TO SHOW PRICES IN CHART
     import matplotlib.pyplot as plt 
     import numpy as np
     x = np.array(x)
