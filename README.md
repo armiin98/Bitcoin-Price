@@ -3,7 +3,7 @@
 What Is Bitcoin?
 Bitcoin is a digital currency that was created in January 2009. It follows the ideas set out in a whitepaper by the mysterious and pseudonymous Satoshi Nakamoto.1﻿ The identity of the person or persons who created the technology is still a mystery. Bitcoin offers the promise of lower transaction fees than traditional online payment mechanisms and, unlike government-issued currencies, it is operated by a decentralized authority.
 
-## what does this script do?
+## What Does This Script Do?
 
 This is a Script to get Bitcoin latest Price 
 Also you can save data in mysql and have a Chart of Bitcoin Prices from your Database
