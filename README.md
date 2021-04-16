@@ -19,11 +19,11 @@ $ git clone https://github.com/armiin98/bitcoin-price.git
 ```sh
 $ cd bitcoin-price
 ```
-4.Install Requirements
+4. Install Requirements
 ```sh
 pip install -r requirements.txt
 ```
-5.Run programme
+5. Run programme
 ```sh
 python get_price.py
 ```
