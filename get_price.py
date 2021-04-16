@@ -20,8 +20,8 @@ def programme():
 
         <Menu>
 
-    1) SHOW BITCOIN PRICE
-    2) SHOW DATABSE
+    1) SHOW BITCOIN CURRENT PRICE
+    2) SHOW CHART OF BITCOIN FROM YOUR DATABASE
     3) EXIT
     :? """)
 
@@ -54,7 +54,7 @@ def programme():
                 try :  
                     save_database(date,time,price)
                 except : 
-                    print("An error occurred when saving data in mysql database!")                 
+                    print("An error occurred when saving data in database!")                 
                 finally : 
                     programme()
             else:
