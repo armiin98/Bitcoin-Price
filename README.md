@@ -5,15 +5,16 @@ Bitcoin is a digital currency that was created in January 2009. It follows the i
 
 ## what does this script do?
 
-this is an script to get bitcoin latest price 
-also you can save data in mysql and have a chart of bitcoin prices from your database
+This is a Script to get Bitcoin latest Price 
+Also you can save data in mysql and have a Chart of Bitcoin Prices from your Database
 
 ### HOW TO USE
 
 1. Clone the project     
 ```sh
-$ git clone https://github.com/armiin98/eye_care_20_20_20.git
+$ git clone https://github.com/armiin98/bitcoin-price.git
 ```       
-2. Go to the eye care 20 20 20 directory  
+2. Go to the bitcoin-price directory  
 ```sh
-$ cd eye_care_20_20_20
+$ cd bitcoin-price
+'''
