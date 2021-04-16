@@ -9,12 +9,20 @@ This is a Script to get Bitcoin latest Price
 Also you can save data in mysql and have a Chart of Bitcoin Prices from your Database
 
 ### HOW TO USE
-
-1. Clone the project     
+1. Make sure you have installed : `python3` & `pip`
+2. Clone the project     
 ```sh
 $ git clone https://github.com/armiin98/bitcoin-price.git
 ```       
-2. Go to the bitcoin-price directory  
+3. Go to the bitcoin-price directory  
 ```sh
 $ cd bitcoin-price
-'''
+```
+4.Install Requirements
+```sh
+pip install -r requirements.txt`
+```
+5.Run programme
+```sh
+python get_price.py
+```
