@@ -20,7 +20,7 @@ $ cd bitcoin-price
 ```
 4.Install Requirements
 ```sh
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 5.Run programme
 ```sh
