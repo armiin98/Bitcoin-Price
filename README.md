@@ -5,7 +5,7 @@ Bitcoin is a digital currency that was created in January 2009. It follows the i
 
 ## What Does This Script Do?
 
-This is a Script to get Bitcoin latest Price 
+This is a Script to get Bitcoin latest Price,
 Also you can save data in mysql and have a Chart of Bitcoin Prices from your Database
 
 ### HOW TO USE
